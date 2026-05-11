@@ -62,4 +62,4 @@ O servidor sobe em `http://localhost:5173` por padrão.
 
 ---
 
-🔗 **Repositório:** [github.com/balzaNeli/Aprendendo-Vite-React](https://github.com/balzaNeli/Aprendendo-Vite-React)
+🔗 **Repositório do Backend:** [[github.com/balzaNeli/Aprendendo-Vite-React](https://github.com/balzaNeli/Aprendendo-A-Criar-API)]
